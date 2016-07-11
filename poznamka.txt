@@ -1,0 +1,10 @@
+Musím si vdy v myvenvu zadat pøíkaz:
+python myvenv\Scripts\django-admin.py a pak mi budou fungovat podpøíkazy
+
+šli jsme tam, kde byl uloenı python - a zmìnili jsme jak se budou naèítat soubory - s pomocí python.exe
+ a dali jsme apply
+
+127.0.0.1:8000
+
+TODO
+základní piškvorky na fejsbkuk, a s tím mùou holky pracovat
